@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Sam Alexander
+Copyright (c) 2020 Sam376-sch
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
